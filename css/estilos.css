@@ -30,3 +30,12 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer {
+    padding: 0.5em;
+    background: slategray;
+    text-align: center;
+    color: snow;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+}
